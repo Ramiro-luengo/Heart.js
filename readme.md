@@ -1,4 +1,20 @@
-## Setup
+# Usage Guide
+
+## Docker Setup
+
+Download [Docker](https://www.docker.com/products/docker-desktop).
+Run this followed commands:
+
+``` bash
+# Build the docker image
+docker build -t heart.js .
+
+# Run the docker container
+docker run -p 8080:8080 heart.js
+```
+
+## Local Development Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
