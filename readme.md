@@ -1,4 +1,7 @@
-# Usage Guide
+# Heart.js
+
+## Sample Preview
+![Heart_gif.js](./heartGif.gif)
 
 ## Docker Setup
 
